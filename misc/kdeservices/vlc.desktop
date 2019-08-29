@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Service
+Name=Queue VLC
+GenericName=Text Editor
+Icon=vlc
+ServiceTypes=KonqPopupMenu/Plugin,inode/directory,inode/directory-locked
+X-KDE-AuthorizeAction=shell_access
+X-KDE-Priority=TopLevel
+Actions=VLCQueue
+
+[Desktop Action VLCQueue]
+Name=Queue in VLC
+Icon=vlc
+TryExec=vlc
+Exec=vlc %f

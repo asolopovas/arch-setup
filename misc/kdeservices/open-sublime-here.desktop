@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Service
+Name=Sublime Text
+GenericName=Text Editor
+Icon=sublime-text
+ServiceTypes=KonqPopupMenu/Plugin,inode/directory,inode/directory-locked
+X-KDE-AuthorizeAction=shell_access
+X-KDE-Priority=TopLevel
+Actions=OpenWithSublime
+
+[Desktop Action OpenWithSublime]
+Name=Open in Sublime
+Icon=sublime-text
+TryExec=subl
+Exec=subl %U

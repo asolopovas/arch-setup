@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Service
+Name=Open in PhpStorm
+GenericName=Text Editor
+Icon=/opt/phpstorm/bin/phpstorm.svg
+ServiceTypes=KonqPopupMenu/Plugin,inode/directory,inode/directory-locked
+X-KDE-AuthorizeAction=shell_access
+X-KDE-Priority=TopLevel
+Actions=VLCQueue
+
+[Desktop Action VLCQueue]
+Name=Open in PhpStorm
+Icon=/opt/phpstorm/bin/phpstorm.svg
+TryExec=phpstorm
+Exec=phpstorm %U

@@ -1,0 +1,109 @@
+Name, Description,Tag,Type
+alsa-utils,An alternative implementation of Linux sound support,,System
+avahi,Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour,,System
+cups,The CUPS Printing System - daemon package,,System
+efibootmgr,Tool to modify UEFI Firmware Boot Manager Variables,,System
+ghostscript,An interpreter for the PostScript language,,System
+grub,GNU GRand Unified Bootloader,,System
+i3-gaps,A fork of i3wm tiling window manager with more features; including gaps,,System
+i3blocks,Define blocks for your i3bar status line,,System
+intel-ucode,Microcode update files for Intel CPUs,,System
+lightdm,A lightweight display manager,,System
+linux-headers,Header files and scripts for building modules for Linux kernel,,System
+networkmanager,Network Manager,,System
+ntfs-3g,Read-write NTFS driver for Linux,,System
+nvidia,NVIDIA drivers for linux,,System
+nvidia-settings,Tool for configuring the NVIDIA graphics driver,,System
+os-prober,Utility to detect other OSes on a set of drives,,System
+playerctl,mpris media player controller and lib for spotify; vlc; audacious; bmp; xmms2; and others.,,System
+pulseaudio,A featureful; general-purpose sound server ,,System
+pulsemixer,CLI and curses mixer for pulseaudio,,System
+samba,Samba Sharing Client,,System
+ufw,Uncomplicated and easy to use CLI tool for managing a netfilter firewall,,System
+unzip,Zip extractor,,System
+xbindkeys,Launch shell commands with your keyboard or your mouse under X,,System
+xclip,Command line interface to X selections (clipboard),,System
+xorg-server,Xorg X server,,System
+xorg-xrandr,Primitive command line interface to RandR extension,,System
+xorg-xset,User preference utility for X,,System
+xorg-xinput,Small commandline tool to configure devices,,System
+xorg-xinit,X.Org initialisation program,,System
+autorandr,Auto-detect connected display hardware and load appropiate X11 setup using xrandr,,System
+xterm,X Terminal Emulator,,System
+wmctrl,Control your EWMH compliant window manager from command line,,System
+zsh,Z shell,,System
+qt5ct,Qt5 Configuration Utility,,System
+qt5-base,A cross-platform application and UI framework ,,System
+ntp,Network Time Protocol reference implementation,,System
+exfat-utils,Utilities for exFAT file system,,System
+xwallpaper,Wallpaper setting utility for X,,System
+w3m,Text-based Web browser as well as pager,,System
+nomac,A Qt image viewer,,System
+lxappearance,Feature-rich GTK+ theme switcher of the LXDE Desktop,,System
+breeze,Artwork; styles and assets for the Breeze visual style for the Plasma Desktop,,System
+breeze-gtk,Breeze widget theme for GTK 2 and 3,,System
+breeze-icons,Breeze icon themes ,,System
+gnome-themes-extra,Extra Themes for GNOME Applications,,System
+dunst,is a suckless notification system.,,System
+qt5-styleplugins,Additional style plugins for Qt5 ,,System
+compton,X compositor that may fix tearing issues,,System
+libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
+ranger,File Manager,,Soft
+vlc,Video Player,,Soft
+rsync,A file transfer program to keep remote files in sync,,Soft
+qbittorrent,Torrent Client,,Soft
+pkgstats,Submit a list of installed packages to the Arch Linux project,,Soft
+mythes-en,English thesaurus,,Soft
+libmythes,a simple thesaurus,,Soft
+languagetool,An open source language checker,,Soft
+icedtea-web,Free web browser plugin to run applets written in Java and an implementation of Java Web Start,,Soft
+gst-plugins-good,Launch shell commands with your keyboard or your mouse under X,,Soft
+gst-libav,GStreamer open-source multimedia framework FFmpeg plugin,,Soft
+enchant,Wrapper for various spell checker engines,,Soft
+aspell-en,Spell Checker,,Soft
+git,the fast distributed version control system ,,Soft
+dolphin,KDE File Manager ,,Soft
+ttf-ubuntu-font-family,Ubuntu font family,,Font
+ttf-liberation,Red Hats Liberation fonts,,Font
+ttf-gentium,Wide range of Latin-based alphabets; defines roughly 1;500 glyphs.,,Font
+ttf-fira-mono,Mozilla's monospace typeface designed for Firefox OS,,Font
+ttf-droid,General-purpose fonts released by Google as part of Android,,Font
+ttf-dejavu,Font family based on the Bitstream Vera Fonts with a wider range of characters,,Font
+ttf-bitstream-vera,Bitstream Vera fonts.,,Font
+ttf-inconsolata,Monospace font for pretty code listings and for the terminal,,Font
+powerline-fonts-git,Powerline fonts for X11 and the console,A,Font
+noto-fonts,Google Noto TTF fonts,,Font
+ttf-linux-libertine,Serif (Libertine) and Sans Serif (Biolinum) OpenType fonts with large Unicode coverage,,Font
+ttf-anonymous-pro,A family of four fixed-width fonts designed especially with coding in mind,,Font
+adobe-source-sans-pro-fonts,Sans serif font family for user interface environments,,Font
+yarn,Fast; reliable; and secure dependency management,,Dev
+virtualbox,Powerful x86 virtualization for enterprise as well as home use,,Dev
+python-neovim,Python client for Neovim,,Dev
+neovim-qt,GUI for Neovim,,Dev
+neovim,Fork of Vim aiming to improve user experience; plugins; and GUIs,,Dev
+jre8-openjdk,OpenJDK Java 8 full runtime environment,,Dev
+jre-openjdk-headless,OpenJDK Java 11 headless runtime environment,,Dev
+jre-openjdk,OpenJDK Java 11 full runtime environment,,Dev
+docker-compose,Fast; isolated development environments using Docker,,Dev
+docker,Pack; ship and run any application as a lightweight container,,Dev
+kdenetwork-filesharing,Properties dialog plugin to share a directory with the local network,,Addon
+gnome-keyring,Stores passwords and encryption keys,,Addon
+oh-my-zsh-git,A community-driven framework for managing your zsh configuration.,A,Addon
+lightdm-slick-greeter,A slick-looking LightDM greeter,A,Addon
+ttf-ms-fonts,Core TTF Fonts from Microsoft,A,Font
+ttf-emojione,Official colorful EmojiOne font,A,Font
+powerline-fonts-git,Powerline fonts for X11 and the console,A,Font
+whatsapp-nativefier,WhatsApp desktop built with nativefier (electron),A,Soft
+viber,Proprietary cross-platform IM and VoIP software,A,Soft
+teamviewer,All-In-One Software for Remote Support and Online Meetings,A,Soft
+sublime-text-dev,Sophisticated text editor for code; html and prose - dev build,A,Soft
+spotify,A proprietary music streaming service,A,Soft
+skypeforlinux-stable-bin,Skype for Linux - Stable/Release Version,A,Soft
+phpstorm,Lightweight and Smart PHP IDE,A,Soft
+kbdd-git,Simple daemon and library to make per window layout,A,Soft
+grive,An open source Linux client for Google Drive with support for the new Drive REST API and partial sync,A,Soft
+google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
+bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
+anydesk,An All-In-One Software for Remote Support,A,Soft
+pamac-aur,A Gtk3 frontend for libalpm,A,Utilitity
+intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity

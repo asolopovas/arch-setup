@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=KonqPopupMenu/Plugin
+MimeType=inode/directory;
+Actions=openTerminalHere;
+X-KDE-AuthorizeAction=shell_access
+
+[Desktop Action openTerminalHere]
+TryExec=st
+Exec=st zsh -c "cd %f;zsh"
+Icon=utilities-terminal
+
+Name=Open Terminal Here
+
+Comment=Opens a terminal at the current folder

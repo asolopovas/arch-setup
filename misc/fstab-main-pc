@@ -1,0 +1,24 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/nvme1n1p2
+UUID=f6f8b6dc-e35c-43c7-bdd9-575075f5895c   /                       btrfs       defaults 0 0
+
+# /dev/nvme1n1p1
+UUID=C66C-3ECB                              /boot/efi               vfat        rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/nvme1n1p2
+UUID=0469-7351                              /boot/efi/EFI/win       vfat        rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/nvme1n1p4
+UUID=1b18eca7-7c35-4f6e-bc57-4a578e788434   /home                   ext4        rw,relatime	0 2
+
+# /dev/nvme1n1p3
+UUID=3a9dd94a-1b75-4193-91a2-d334c4481edb   none                    swap        defaults,pri=-2	0 0
+
+# /dev/nvme0n1p1
+UUID=BA826A6A826A2AD9                       /run/media/andrius/c    ntfs-3g     auto,users,permissions 0 0
+
+# /dev/nvme0n1p2
+UUID=FAF2254DF2250F85                       /run/media/andrius/d    ntfs-3g     auto,users,permissions 0 0
