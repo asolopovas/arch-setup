@@ -46,6 +46,7 @@ breeze-icons,Breeze icon themes ,,System
 gnome-themes-extra,Extra Themes for GNOME Applications,,System
 dunst,is a suckless notification system.,,System
 qt5-styleplugins,Additional style plugins for Qt5 ,,System
+xorg-wininfo,Command-line utility to print information about windows on an X server ,,System
 compton,X compositor that may fix tearing issues,,System
 libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
 ranger,File Manager,,Soft
