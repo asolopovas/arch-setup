@@ -73,7 +73,7 @@ sed -i -e 's/-Didea.jre.check=true//g' /usr/bin/phpstorm
 # ---------------------------------------------
 # Docker Configurations
 # ---------------------------------------------
-usermod -aG docker andrius
+usermod -aG docker $username
 
 # ---------------------------------------------
 # G9X Mouse Accellartation
