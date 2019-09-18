@@ -41,7 +41,7 @@ gio mime x-scheme-handler/magnet qbittorrent.desktop
 # Change default shell to zsh
 # ---------------------------------------------
 chsh -s $(which zsh) root
-chsh -s $(which zsh) andrius
+chsh -s $(which zsh) $username
 
 # Dolphin Service Menus (Context)
 mkdir -p "/home/$username/.local/share/kservices5"
