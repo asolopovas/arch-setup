@@ -63,6 +63,7 @@ gst-libav,GStreamer open-source multimedia framework FFmpeg plugin,,Soft
 enchant,Wrapper for various spell checker engines,,Soft
 aspell-en,Spell Checker,,Soft
 git,the fast distributed version control system ,,Soft
+flameshot,Powerful yet simple to use screenshot software,,Soft
 dolphin,KDE File Manager ,,Soft
 ttf-ubuntu-font-family,Ubuntu font family,,Font
 ttf-liberation,Red Hats Liberation fonts,,Font
@@ -86,6 +87,7 @@ jre8-openjdk,OpenJDK Java 8 full runtime environment,,Dev
 jre-openjdk-headless,OpenJDK Java 11 headless runtime environment,,Dev
 jre-openjdk,OpenJDK Java 11 full runtime environment,,Dev
 docker-compose,Fast; isolated development environments using Docker,,Dev
+nss,Network Security Services,,Dev
 docker,Pack; ship and run any application as a lightweight container,,Dev
 kdenetwork-filesharing,Properties dialog plugin to share a directory with the local network,,Addon
 gnome-keyring,Stores passwords and encryption keys,,Addon
@@ -107,4 +109,5 @@ google-chrome,The popular and trusted web browser by Google (Stable Channel),A,S
 bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
 anydesk,An All-In-One Software for Remote Support,A,Soft
 pamac-aur,A Gtk3 frontend for libalpm,A,Utilitity
+i3lock-blur,An improved screenlocker based upon XCB and PAM with background blurring filter,,
 intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity
