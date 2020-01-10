@@ -23,7 +23,7 @@ grub-mkconfig -o /boot/grub/grub.cfg
 echo -n "Enter your name and press [ENTER]: "
 read username
 
-$displayname=${username^}
+displayname=${username^}
 
 while true; do
     read -p "Does user have existing folder [yes/no]" yn
