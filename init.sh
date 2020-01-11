@@ -23,12 +23,10 @@ grub-mkconfig -o /boot/grub/grub.cfg
 echo -n "Enter your name and press [ENTER]: "
 read username
 
-displayname=${username^}
-
 while true; do
     read -p "Does user have existing folder [yes/no]" yn
     case $yn in
-        [Yy]*) useradd -d "/home/$username" -c "$displayname"  -G wheel $username
+        [Yy]*) useradd -d "/home/$username" -c "${username^}"  -G wheel $username
                chown -R "$username:$username" "/home/$username"
                passwd $username
           break;;

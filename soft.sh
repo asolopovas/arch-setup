@@ -54,7 +54,7 @@ install() { \
 # Community repo install helper
 # ---------------------------------------------
 aurinstall() { \
-  if [ $official = "true" ]; then return; fi
+  if [ "$official" = "true" ]; then exit 1; fi
   sudo -u "$username" $aurhelper --needed --noconfirm -S "$1"
 }
 
