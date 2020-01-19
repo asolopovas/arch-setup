@@ -10,7 +10,7 @@ mkdir /mnt/hostlvm
 mount --bind /run/lvm /mnt/hostlvm
 
 # Install arch base packages
-pacstrap /mnt base base-devel git neovim grub
+pacstrap /mnt base base-devel git neovim grub linux-firmware
 
 # Generate fstab
 genfstab -U /mnt >> /mnt/etc/fstab
