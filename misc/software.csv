@@ -68,12 +68,10 @@ dolphin,KDE File Manager ,,Soft
 ttf-ubuntu-font-family,Ubuntu font family,,Font
 ttf-liberation,Red Hats Liberation fonts,,Font
 ttf-gentium,Wide range of Latin-based alphabets; defines roughly 1;500 glyphs.,,Font
-ttf-fira-mono,Mozilla's monospace typeface designed for Firefox OS,,Font
 ttf-droid,General-purpose fonts released by Google as part of Android,,Font
 ttf-dejavu,Font family based on the Bitstream Vera Fonts with a wider range of characters,,Font
 ttf-bitstream-vera,Bitstream Vera fonts.,,Font
 ttf-inconsolata,Monospace font for pretty code listings and for the terminal,,Font
-powerline-fonts-git,Powerline fonts for X11 and the console,A,Font
 noto-fonts,Google Noto TTF fonts,,Font
 ttf-linux-libertine,Serif (Libertine) and Sans Serif (Biolinum) OpenType fonts with large Unicode coverage,,Font
 ttf-anonymous-pro,A family of four fixed-width fonts designed especially with coding in mind,,Font
@@ -103,6 +101,8 @@ viber,Proprietary cross-platform IM and VoIP software,A,Soft
 teamviewer,All-In-One Software for Remote Support and Online Meetings,A,Soft
 sublime-text-dev,Sophisticated text editor for code; html and prose - dev build,A,Soft
 spotify,A proprietary music streaming service,A,Soft
+nerd-fonts-fira-code,Nerd Fira Font,A,Font
+nerd-fonts-fira-mono,Nerd Fira Mono Font,A,Font
 skypeforlinux-stable-bin,Skype for Linux - Stable/Release Version,A,Soft
 phpstorm,Lightweight and Smart PHP IDE,A,Soft
 kbdd-git,Simple daemon and library to make per window layout,A,Soft
