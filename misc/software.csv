@@ -82,6 +82,8 @@ yarn,Fast; reliable; and secure dependency management,,Dev
 virtualbox,Powerful x86 virtualization for enterprise as well as home use,,Dev
 python-neovim,Python client for Neovim,,Dev
 neovim-qt,GUI for Neovim,,Dev
+light,Brightness Control application,,Dev
+acpid,Required for brightness control,,Dev
 neovim,Fork of Vim aiming to improve user experience; plugins; and GUIs,,Dev
 jre8-openjdk,OpenJDK Java 8 full runtime environment,,Dev
 jre-openjdk-headless,OpenJDK Java 11 headless runtime environment,,Dev

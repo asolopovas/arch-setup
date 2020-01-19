@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yay -S intel-undervol
+sudo -u andrius yay -S --needed --noconfirm intel-undervolt 
 conf=/etc/intel-undervolt.conf
 
 sudo cat <<EOT > $conf
@@ -10,7 +10,7 @@ undervolt 2 'CPU Cache' -139
 undervolt 3 'System Agent' 0
 undervolt 4 'Analog I/O' 0
 EOT
-su -c 'systemd enable --now intel-undervolt'
+su -c 'systemctl enable --now intel-undervolt'
 su -c 'intel-undervolt read'
 
 
