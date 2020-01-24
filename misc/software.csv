@@ -30,8 +30,10 @@ xorg-xinput,Small commandline tool to configure devices,,System
 xorg-xinit,X.Org initialisation program,,System
 autorandr,Auto-detect connected display hardware and load appropiate X11 setup using xrandr,,System
 xterm,X Terminal Emulator,,System
+network-manager-applet,Applet for managing network connections,,System
 wmctrl,Control your EWMH compliant window manager from command line,,System
 zsh,Z shell,,System
+rclone,Sync files to and from Google Drive S3 Swift Cloudfiles Dropbox and Google Cloud Storage,,System
 qt5ct,Qt5 Configuration Utility,,System
 qt5-base,A cross-platform application and UI framework ,,System
 ntp,Network Time Protocol reference implementation,,System
@@ -110,6 +112,8 @@ grive,An open source Linux client for Google Drive with support for the new Driv
 google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
 bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
 anydesk,An All-In-One Software for Remote Support,A,Soft
+clipit,Lightweight GTK+ clipboard manager,A,Soft
 pamac-aur,A Gtk3 frontend for libalpm,A,Utilitity
-i3lock-blur,An improved screenlocker based upon XCB and PAM with background blurring filter,,
+i3lock-blur,An improved screenlocker based upon XCB and PAM with background blurring filter,,Utilitity
 intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity
+yad,A fork of zenity - display graphical dialogs from,,Utilitity
