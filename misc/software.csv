@@ -50,6 +50,7 @@ gnome-themes-extra,Extra Themes for GNOME Applications,,System
 dunst,is a suckless notification system.,,System
 qt5-styleplugins,Additional style plugins for Qt5 ,,System
 blueman,GTK+ Bluetooth Manager,,System
+libappindicator-gtk3,Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (GTK+ 3 library),A,System
 pulseaudio-bluetooth,Bluetooth support for PulseAudio,,System
 bluez,Daemons for the bluetooth protocol stack,,System
 bluez-utils,Development and debugging utilities for the bluetooth protocol stack,,System
