@@ -39,11 +39,9 @@ install_aur() {
   sudo -u "$username" sh -c  " pushd /tmp && git clone https://aur.archlinux.org/yay.git"
   sudo -u "$username" sh -c  "pushd /tmp/yay && makepkg -si --noconfirm"
 } 
-if [ $official = "false" ]; then
-  install_aur
-  # Speed up AUR package built time
-  sudo sed -i -e 's/#MAKEFLAGS="-j2"/MAKEFLAGS="-j $(nproc)"/g' /etc/makepkg.conf;
-fi
+
+install_aur
+sudo sed -i -e 's/#MAKEFLAGS="-j2"/MAKEFLAGS="-j $(nproc)"/g' /etc/makepkg.conf;
 
 # ---------------------------------------------
 # Main rero install helper
@@ -56,7 +54,7 @@ install() { \
 # Community repo install helper
 # ---------------------------------------------
 aurinstall() { \
-  if [ $official = "true" ]; then return; fi
+  if [ "$official" = "true" ]; then exit 1; fi
   sudo -u "$username" $aurhelper --needed --noconfirm -S "$1"
 }
 
