@@ -50,12 +50,13 @@ gnome-themes-extra,Extra Themes for GNOME Applications,,System
 dunst,is a suckless notification system.,,System
 qt5-styleplugins,Additional style plugins for Qt5 ,,System
 blueman,GTK+ Bluetooth Manager,,System
-libappindicator-gtk3,Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (GTK+ 3 library),A,System
+libappindicator-gtk3,Allow applications to extend a menu via Ayatana indicators in Unity  KDE or Systray (GTK+ 3 library),A,System
 pulseaudio-bluetooth,Bluetooth support for PulseAudio,,System
 bluez,Daemons for the bluetooth protocol stack,,System
 bluez-utils,Development and debugging utilities for the bluetooth protocol stack,,System
 xorg-wininfo,Command-line utility to print information about windows on an X server ,,System
 compton,X compositor that may fix tearing issues,,System
+libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste,A,System
 libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
 ranger,File Manager,,Soft
 vlc,Video Player,,Soft
@@ -101,8 +102,8 @@ kdenetwork-filesharing,Properties dialog plugin to share a directory with the lo
 gnome-keyring,Stores passwords and encryption keys,,Addon
 oh-my-zsh-git,A community-driven framework for managing your zsh configuration.,A,Addon
 lightdm-slick-greeter,A slick-looking LightDM greeter,A,Addon
-ttf-ms-fonts,Core TTF Fonts from Microsoft,A,Font
-ttf-emojione,Official colorful EmojiOne font,A,Font
+noto-fonts-emoji,Google Noto emoji fonts,,Font
+ttf-symbola,Font for symbol blocks of the Unicode Standard (TTF),A,Font
 powerline-fonts-git,Powerline fonts for X11 and the console,A,Font
 whatsapp-nativefier,WhatsApp desktop built with nativefier (electron),A,Soft
 viber,Proprietary cross-platform IM and VoIP software,A,Soft
