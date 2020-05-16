@@ -56,6 +56,8 @@ bluez,Daemons for the bluetooth protocol stack,,System
 bluez-utils,Development and debugging utilities for the bluetooth protocol stack,,System
 xorg-wininfo,Command-line utility to print information about windows on an X server ,,System
 compton,X compositor that may fix tearing issues,,System
+ruby,An object-oriented language for quick and easy programming,,System
+unison,File-synchronization tool,,System
 libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste,A,System
 libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
 ranger,File Manager,,Soft
@@ -114,6 +116,7 @@ nerd-fonts-fira-code,Nerd Fira Font,A,Font
 nerd-fonts-fira-mono,Nerd Fira Mono Font,A,Font
 skypeforlinux-stable-bin,Skype for Linux - Stable/Release Version,A,Soft
 phpstorm,Lightweight and Smart PHP IDE,A,Soft
+phpstorm-jre,JBR (JetBrains Runtime) for PhpStorm - a patched JRE,A,Soft
 kbdd-git,Simple daemon and library to make per window layout,A,Soft
 grive,An open source Linux client for Google Drive with support for the new Drive REST API and partial sync,A,Soft
 google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
