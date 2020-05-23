@@ -1,4 +1,60 @@
 Name, Description,Tag,Type
+gnome-keyring,Stores passwords and encryption keys,,Addon
+yarn,Fast; reliable; and secure dependency management,,Dev
+light,Brightness Control application,,Dev
+acpid,Required for brightness control,,Dev
+neovim,Fork of Vim aiming to improve user experience; plugins; and GUIs,,Dev
+python-neovim,Python client for Neovim,,Dev
+docker,Pack; ship and run any application as a lightweight container,,Dev
+docker-compose,Fast; isolated development environments using Docker,,Dev
+nss,Network Security Services,,Dev
+ttf-ubuntu-font-family,Ubuntu font family,,Font
+ttf-liberation,Red Hats Liberation fonts,,Font
+ttf-gentium,Wide range of Latin-based alphabets; defines roughly 1;500 glyphs.,,Font
+ttf-droid,General-purpose fonts released by Google as part of Android,,Font
+ttf-dejavu,Font family based on the Bitstream Vera Fonts with a wider range of characters,,Font
+ttf-bitstream-vera,Bitstream Vera fonts.,,Font
+ttf-inconsolata,Monospace font for pretty code listings and for the terminal,,Font
+noto-fonts,Google Noto TTF fonts,,Font
+ttf-linux-libertine,Serif (Libertine) and Sans Serif (Biolinum) OpenType fonts with large Unicode coverage,,Font
+ttf-anonymous-pro,A family of four fixed-width fonts designed especially with coding in mind,,Font
+adobe-source-sans-pro-fonts,Sans serif font family for user interface environments,,Font
+noto-fonts-emoji,Google Noto emoji fonts,,Font
+ttf-symbola,Font for symbol blocks of the Unicode Standard (TTF),A,Font
+powerline-fonts-git,Powerline fonts for X11 and the console,A,Font
+nerd-fonts-fira-code,Nerd Fira Font,A,Font
+nerd-fonts-fira-mono,Nerd Fira Mono Font,A,Font
+libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
+ranger,File Manager,,Soft
+vlc,Video Player,,Soft
+rsync,A file transfer program to keep remote files in sync,,Soft
+qbittorrent,Torrent Client,,Soft
+pkgstats,Submit a list of installed packages to the Arch Linux project,,Soft
+mythes-en,English thesaurus,,Soft
+libmythes,a simple thesaurus,,Soft
+languagetool,An open source language checker,,Soft
+icedtea-web,Free web browser plugin to run applets written in Java and an implementation of Java Web Start,,Soft
+gst-plugins-good,Launch shell commands with your keyboard or your mouse under X,,Soft
+gst-libav,GStreamer open-source multimedia framework FFmpeg plugin,,Soft
+enchant,Wrapper for various spell checker engines,,Soft
+aspell-en,Spell Checker,,Soft
+git,the fast distributed version control system ,,Soft
+flameshot,Powerful yet simple to use screenshot software,,Soft
+dolphin,KDE File Manager ,,Soft
+whatsapp-nativefier,WhatsApp desktop built with nativefier (electron),A,Soft
+viber,Proprietary cross-platform IM and VoIP software,A,Soft
+teamviewer,All-In-One Software for Remote Support and Online Meetings,A,Soft
+sublime-text-dev,Sophisticated text editor for code; html and prose - dev build,A,Soft
+spotify,A proprietary music streaming service,A,Soft
+skypeforlinux-stable-bin,Skype for Linux - Stable/Release Version,A,Soft
+phpstorm,Lightweight and Smart PHP IDE,A,Soft
+phpstorm-jre,JBR (JetBrains Runtime) for PhpStorm - a patched JRE,A,Soft
+kbdd-git,Simple daemon and library to make per window layout,A,Soft
+grive,An open source Linux client for Google Drive with support for the new Drive REST API and partial sync,A,Soft
+google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
+bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
+anydesk,An All-In-One Software for Remote Support,A,Soft
+clipit,Lightweight GTK+ clipboard manager,A,Soft
 alsa-utils,An alternative implementation of Linux sound support,,System
 avahi,Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour,,System
 cups,The CUPS Printing System - daemon package,,System
@@ -28,7 +84,6 @@ xorg-xrandr,Primitive command line interface to RandR extension,,System
 xorg-xset,User preference utility for X,,System
 xorg-xinput,Small commandline tool to configure devices,,System
 xorg-xinit,X.Org initialisation program,,System
-fzf,Command-line fuzzy finder,,System
 autorandr,Auto-detect connected display hardware and load appropiate X11 setup using xrandr,,System
 xterm,X Terminal Emulator,,System
 network-manager-applet,Applet for managing network connections,,System
@@ -59,70 +114,6 @@ compton,X compositor that may fix tearing issues,,System
 ruby,An object-oriented language for quick and easy programming,,System
 unison,File-synchronization tool,,System
 libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste,A,System
-libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
-ranger,File Manager,,Soft
-vlc,Video Player,,Soft
-rsync,A file transfer program to keep remote files in sync,,Soft
-qbittorrent,Torrent Client,,Soft
-pkgstats,Submit a list of installed packages to the Arch Linux project,,Soft
-mythes-en,English thesaurus,,Soft
-libmythes,a simple thesaurus,,Soft
-languagetool,An open source language checker,,Soft
-icedtea-web,Free web browser plugin to run applets written in Java and an implementation of Java Web Start,,Soft
-gst-plugins-good,Launch shell commands with your keyboard or your mouse under X,,Soft
-gst-libav,GStreamer open-source multimedia framework FFmpeg plugin,,Soft
-enchant,Wrapper for various spell checker engines,,Soft
-aspell-en,Spell Checker,,Soft
-git,the fast distributed version control system ,,Soft
-flameshot,Powerful yet simple to use screenshot software,,Soft
-dolphin,KDE File Manager ,,Soft
-ttf-ubuntu-font-family,Ubuntu font family,,Font
-ttf-liberation,Red Hats Liberation fonts,,Font
-ttf-gentium,Wide range of Latin-based alphabets; defines roughly 1;500 glyphs.,,Font
-ttf-droid,General-purpose fonts released by Google as part of Android,,Font
-ttf-dejavu,Font family based on the Bitstream Vera Fonts with a wider range of characters,,Font
-ttf-bitstream-vera,Bitstream Vera fonts.,,Font
-ttf-inconsolata,Monospace font for pretty code listings and for the terminal,,Font
-noto-fonts,Google Noto TTF fonts,,Font
-ttf-linux-libertine,Serif (Libertine) and Sans Serif (Biolinum) OpenType fonts with large Unicode coverage,,Font
-ttf-anonymous-pro,A family of four fixed-width fonts designed especially with coding in mind,,Font
-adobe-source-sans-pro-fonts,Sans serif font family for user interface environments,,Font
-yarn,Fast; reliable; and secure dependency management,,Dev
-virtualbox,Powerful x86 virtualization for enterprise as well as home use,,Dev
-python-neovim,Python client for Neovim,,Dev
-neovim-qt,GUI for Neovim,,Dev
-light,Brightness Control application,,Dev
-acpid,Required for brightness control,,Dev
-neovim,Fork of Vim aiming to improve user experience; plugins; and GUIs,,Dev
-jre8-openjdk,OpenJDK Java 8 full runtime environment,,Dev
-jre-openjdk-headless,OpenJDK Java 11 headless runtime environment,,Dev
-jre-openjdk,OpenJDK Java 11 full runtime environment,,Dev
-docker-compose,Fast; isolated development environments using Docker,,Dev
-nss,Network Security Services,,Dev
-docker,Pack; ship and run any application as a lightweight container,,Dev
-kdenetwork-filesharing,Properties dialog plugin to share a directory with the local network,,Addon
-gnome-keyring,Stores passwords and encryption keys,,Addon
-oh-my-zsh-git,A community-driven framework for managing your zsh configuration.,A,Addon
-lightdm-slick-greeter,A slick-looking LightDM greeter,A,Addon
-noto-fonts-emoji,Google Noto emoji fonts,,Font
-ttf-symbola,Font for symbol blocks of the Unicode Standard (TTF),A,Font
-powerline-fonts-git,Powerline fonts for X11 and the console,A,Font
-whatsapp-nativefier,WhatsApp desktop built with nativefier (electron),A,Soft
-viber,Proprietary cross-platform IM and VoIP software,A,Soft
-teamviewer,All-In-One Software for Remote Support and Online Meetings,A,Soft
-sublime-text-dev,Sophisticated text editor for code; html and prose - dev build,A,Soft
-spotify,A proprietary music streaming service,A,Soft
-nerd-fonts-fira-code,Nerd Fira Font,A,Font
-nerd-fonts-fira-mono,Nerd Fira Mono Font,A,Font
-skypeforlinux-stable-bin,Skype for Linux - Stable/Release Version,A,Soft
-phpstorm,Lightweight and Smart PHP IDE,A,Soft
-phpstorm-jre,JBR (JetBrains Runtime) for PhpStorm - a patched JRE,A,Soft
-kbdd-git,Simple daemon and library to make per window layout,A,Soft
-grive,An open source Linux client for Google Drive with support for the new Drive REST API and partial sync,A,Soft
-google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
-bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
-anydesk,An All-In-One Software for Remote Support,A,Soft
-clipit,Lightweight GTK+ clipboard manager,A,Soft
 pamac-aur,A Gtk3 frontend for libalpm,A,Utilitity
 i3lock-blur,An improved screenlocker based upon XCB and PAM with background blurring filter,,Utilitity
 intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity
