@@ -72,6 +72,7 @@ nvidia,NVIDIA drivers for linux,,System
 nvidia-settings,Tool for configuring the NVIDIA graphics driver,,System
 os-prober,Utility to detect other OSes on a set of drives,,System
 playerctl,mpris media player controller and lib for spotify; vlc; audacious; bmp; xmms2; and others.,,System
+the_silver_searcher,"Code searching tool similar to Ack, but faster",,System
 pulseaudio,A featureful; general-purpose sound server ,,System
 pulsemixer,CLI and curses mixer for pulseaudio,,System
 samba,Samba Sharing Client,,System
