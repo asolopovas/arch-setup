@@ -27,7 +27,6 @@ nerd-fonts-fira-mono,Nerd Fira Mono Font,A,Font
 libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
 ranger,File Manager,,Soft
 vlc,Video Player,,Soft
-rsync,A file transfer program to keep remote files in sync,,Soft
 qbittorrent,Torrent Client,,Soft
 pkgstats,Submit a list of installed packages to the Arch Linux project,,Soft
 mythes-en,English thesaurus,,Soft
@@ -40,8 +39,7 @@ enchant,Wrapper for various spell checker engines,,Soft
 aspell-en,Spell Checker,,Soft
 git,the fast distributed version control system ,,Soft
 flameshot,Powerful yet simple to use screenshot software,,Soft
-dolphin,KDE File Manager ,,Soft
-whatsapp-nativefier,WhatsApp desktop built with nativefier (electron),A,Soft
+whatsapp-nativefier-dark,WhatsApp desktop built with nativefier (electron),A,Soft
 viber,Proprietary cross-platform IM and VoIP software,A,Soft
 teamviewer,All-In-One Software for Remote Support and Online Meetings,A,Soft
 sublime-text-dev,Sophisticated text editor for code; html and prose - dev build,A,Soft
@@ -50,9 +48,9 @@ skypeforlinux-stable-bin,Skype for Linux - Stable/Release Version,A,Soft
 phpstorm,Lightweight and Smart PHP IDE,A,Soft
 phpstorm-jre,JBR (JetBrains Runtime) for PhpStorm - a patched JRE,A,Soft
 kbdd-git,Simple daemon and library to make per window layout,A,Soft
-grive,An open source Linux client for Google Drive with support for the new Drive REST API and partial sync,A,Soft
 google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
 bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
+visual-studio-code-bin,Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version),A,Soft
 anydesk,An All-In-One Software for Remote Support,A,Soft
 clipit,Lightweight GTK+ clipboard manager,A,Soft
 alsa-utils,An alternative implementation of Linux sound support,,System
@@ -61,14 +59,13 @@ cups,The CUPS Printing System - daemon package,,System
 efibootmgr,Tool to modify UEFI Firmware Boot Manager Variables,,System
 ghostscript,An interpreter for the PostScript language,,System
 grub,GNU GRand Unified Bootloader,,System
-i3-gaps,A fork of i3wm tiling window manager with more features; including gaps,,System
-i3blocks,Define blocks for your i3bar status line,,System
 intel-ucode,Microcode update files for Intel CPUs,,System
 lightdm,A lightweight display manager,,System
 linux-headers,Header files and scripts for building modules for Linux kernel,,System
 networkmanager,Network Manager,,System
 ntfs-3g,Read-write NTFS driver for Linux,,System
 nvidia,NVIDIA drivers for linux,,System
+nvidia-utils,NVIDIA drivers utilities,,System
 nvidia-settings,Tool for configuring the NVIDIA graphics driver,,System
 os-prober,Utility to detect other OSes on a set of drives,,System
 playerctl,mpris media player controller and lib for spotify; vlc; audacious; bmp; xmms2; and others.,,System
@@ -115,7 +112,5 @@ compton,X compositor that may fix tearing issues,,System
 ruby,An object-oriented language for quick and easy programming,,System
 unison,File-synchronization tool,,System
 libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste,A,System
-pamac-aur,A Gtk3 frontend for libalpm,A,Utilitity
-i3lock-blur,An improved screenlocker based upon XCB and PAM with background blurring filter,,Utilitity
 intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity
 yad,A fork of zenity - display graphical dialogs from,,Utilitity
