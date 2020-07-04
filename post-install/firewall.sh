@@ -6,6 +6,7 @@ sudo ufw enable
 sudo systemctl enable ufw.service
 
 # Open ports for Samba
+sudo ufw allow ssh
 sudo ufw allow proto tcp to any port 137 from 192.168.0.0/24
 sudo ufw allow proto tcp to any port 138 from 192.168.0.0/24
 sudo ufw allow proto tcp to any port 139 from 192.168.0.0/24
