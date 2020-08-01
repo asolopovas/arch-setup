@@ -1,0 +1,13 @@
+[Unit]
+Description=Disables wake-up from device XHC
+# the service runs before the computer goes to sleep
+Before=sleep.target
+
+[Service]
+Type=simple
+# check XHC is enabled, if so, toggle it to disabled
+ExecStart=/usr/bin/bash -c "if [[ $(cat /proc/acpi/wakeup|grep XHC | awk '{print substr($3,2); }') == disabled ]]; then echo XHC|tee /proc/acpi/wakeup; fi"
+
+[Install]
+# this does the hook to sleep.target
+WantedBy=sleep.target

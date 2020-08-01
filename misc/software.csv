@@ -15,6 +15,7 @@ ttf-droid,General-purpose fonts released by Google as part of Android,,Font
 ttf-dejavu,Font family based on the Bitstream Vera Fonts with a wider range of characters,,Font
 ttf-bitstream-vera,Bitstream Vera fonts.,,Font
 ttf-inconsolata,Monospace font for pretty code listings and for the terminal,,Font
+ttf-joypixels,Emoji as a Service (formerly EmojiOne),,Font
 noto-fonts,Google Noto TTF fonts,,Font
 ttf-linux-libertine,Serif (Libertine) and Sans Serif (Biolinum) OpenType fonts with large Unicode coverage,,Font
 ttf-anonymous-pro,A family of four fixed-width fonts designed especially with coding in mind,,Font
@@ -53,6 +54,7 @@ bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.
 visual-studio-code-bin,Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version),A,Soft
 anydesk,An All-In-One Software for Remote Support,A,Soft
 clipit,Lightweight GTK+ clipboard manager,A,Soft
+unzip,For extracting and viewing files in .zip archives,,Soft
 alsa-utils,An alternative implementation of Linux sound support,,System
 avahi,Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour,,System
 cups,The CUPS Printing System - daemon package,,System
