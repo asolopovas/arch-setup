@@ -102,6 +102,8 @@ breeze,Artwork; styles and assets for the Breeze visual style for the Plasma Des
 breeze-gtk,Breeze widget theme for GTK 2 and 3,,System
 breeze-icons,Breeze icon themes ,,System
 gnome-themes-extra,Extra Themes for GNOME Applications,,System
+gvfs,Virtual filesystem implementation for GIO,,System
+polkit-gnome,Legacy polkit authentication agent for GNOME,,System
 dunst,is a suckless notification system.,,System
 qt5-styleplugins,Additional style plugins for Qt5 ,,System
 blueman,GTK+ Bluetooth Manager,,System
