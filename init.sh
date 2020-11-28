@@ -58,6 +58,10 @@ echo "main-linux-host" >> /etc/hostname
 echo "127.0.0.1     localhost" >> /etc/hosts
 echo "::1           localhost" >> /etc/hosts
 
+cat << EOF > /etc/modprobe.d/sp5100_tco.conf 
+blacklist sp5100_tco
+EOF
+
 echo "Please set root password:"
 passwd
 
@@ -70,6 +74,7 @@ hwclock --systohc
 export LANGUAGE=en_GB.UTF-8
 systemctl enable systemd-timesyncd.service
 timedatectl set-ntp true
+
 
 # ---------------------------------------------
 # Install Software
