@@ -11,6 +11,7 @@ mount --bind /run/lvm /mnt/hostlvm
 
 # Install arch base packages
 pacstrap /mnt base base-devel git neovim grub linux-firmware
+ln -sf /usr/bin/nvim /usr/bin/vim
 
 # Generate fstab
 genfstab -U /mnt >> /mnt/etc/fstab
