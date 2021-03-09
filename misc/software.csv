@@ -37,11 +37,8 @@ enchant,Wrapper for various spell checker engines,,Soft
 aspell-en,Spell Checker,,Soft
 git,the fast distributed version control system ,,Soft
 flameshot,Powerful yet simple to use screenshot software,,Soft
-whatsapp-nativefier-dark,WhatsApp desktop built with nativefier (electron),A,Soft
 viber,Proprietary cross-platform IM and VoIP software,A,Soft
 teamviewer,All-In-One Software for Remote Support and Online Meetings,A,Soft
-spotify,A proprietary music streaming service,A,Soft
-skypeforlinux-stable-bin,Skype for Linux - Stable/Release Version,A,Soft
 phpstorm,Lightweight and Smart PHP IDE,A,Soft
 phpstorm-jre,JBR (JetBrains Runtime) for PhpStorm - a patched JRE,A,Soft
 kbdd-git,Simple daemon and library to make per window layout,A,Soft
@@ -57,7 +54,6 @@ efibootmgr,Tool to modify UEFI Firmware Boot Manager Variables,,System
 ghostscript,An interpreter for the PostScript language,,System
 grub,GNU GRand Unified Bootloader,,System
 intel-ucode,Microcode update files for Intel CPUs,,System
-lightdm,A lightweight display manager,,System
 linux-headers,Header files and scripts for building modules for Linux kernel,,System
 networkmanager,Network Manager,,System
 ntfs-3g,Read-write NTFS driver for Linux,,System
@@ -66,6 +62,7 @@ nvidia-utils,NVIDIA drivers utilities,,System
 nvidia-settings,Tool for configuring the NVIDIA graphics driver,,System
 os-prober,Utility to detect other OSes on a set of drives,,System
 playerctl,mpris media player controller and lib for spotify; vlc; audacious; bmp; xmms2; and others.,,System
+fd,"Simple, fast and user-friendly alternative to find",,System
 ripgrep,A search tool that combines the usability of ag with the raw speed of grep,,System
 pulseaudio,A featureful; general-purpose sound server ,,System
 pulsemixer,CLI and curses mixer for pulseaudio,,System
@@ -113,3 +110,4 @@ unison,File-synchronization tool,,System
 libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste,A,System
 intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity
 yad,A fork of zenity - display graphical dialogs from,,Utilitity
+qalculate-gtk,GTK frontend for libqalculate,,Utilitity

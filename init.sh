@@ -52,6 +52,7 @@ echo 'Defaults !tty_tickets' >> /etc/sudoers
 # ---------------------------------------------
 ln -sf /usr/share/zoneinfo/Europe/London /etc/localtime
 sed -i -e 's/#en_GB.UTF-8 UTF-8/en_GB.UTF-8 UTF-8/g' /etc/locale.gen
+sed -i -e 's/#en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/g' /etc/locale.gen
 echo "LANG=en_GB.UTF-8" >> /etc/locale.conf
 echo "KEYMAP=uk" >> /etc/vconsole.conf
 echo "main-linux-host" >> /etc/hostname
