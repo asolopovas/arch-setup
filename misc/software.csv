@@ -52,6 +52,7 @@ avahi,Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour,,
 cups,The CUPS Printing System - daemon package,,System
 efibootmgr,Tool to modify UEFI Firmware Boot Manager Variables,,System
 ghostscript,An interpreter for the PostScript language,,System
+pcmanfm-gtk3,Extremely fast and lightweight file manager (GTK+ 3 version),,System
 grub,GNU GRand Unified Bootloader,,System
 intel-ucode,Microcode update files for Intel CPUs,,System
 linux-headers,Header files and scripts for building modules for Linux kernel,,System
@@ -111,3 +112,10 @@ libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by 
 intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity
 yad,A fork of zenity - display graphical dialogs from,,Utilitity
 qalculate-gtk,GTK frontend for libqalculate,,Utilitity
+apparmor,Mandatory Access Control (MAC) using Linux Security Module (LSM),,System
+gvfs-mtp,"Virtual filesystem implementation for GIO (MTP backend; Android, media player)",,System
+squashfs-tools ,"Tools for squashfs, a highly compressed read-only filesystem for Linux.",,System
+go-tools,Developer tools for the Go programming language,,System
+networkmanager-openvpn,NetworkManager VPN plugin for OpenVPN,,Utilitity
+openvpn,"An easy-to-use, robust and highly configurable VPN (Virtual Private Network)",,Utilitity
+networkmanager-vpnc,NetworkManager VPN plugin for VPNC,,Utilitity
