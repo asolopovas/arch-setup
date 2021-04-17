@@ -3,7 +3,7 @@
 loadkeys uk
 
 # Mirror List
-curl -s 'https://www.archlinux.org/mirrorlist/?country=GB&protocol=https&use_mirror_status=on' | sed -e 's/^#Server/Server/' -e '/^#/d' > /etc/pacman.d/mirrorlist
+curl -s 'https://archlinux.org/mirrorlist/?country=GB&protocol=https&use_mirror_status=on' | sed -e 's/^#Server/Server/' -e '/^#/d' > /etc/pacman.d/mirrorlist
 
 # Grub fix
 mkdir /mnt/hostlvm
