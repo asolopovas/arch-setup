@@ -6,7 +6,7 @@
 # ---------------------------------------------
 username=$1
 [ -z "$soft" ] && soft="https://raw.githubusercontent.com/asolopovas/arch-setup/master/misc/software.csv"
-[ -z "$aurhelper" ] && aurhelper="yay"
+[ -z "$aurhelper" ] && aurhelper="paru"
 
 if [ -z $username ]; then
   while true; do
@@ -40,7 +40,7 @@ install_aur() {
   sudo -u "$username" sh -c  "pushd /tmp/yay && makepkg -si --noconfirm"
 } 
 
-install_aur
+#install_aur
 sudo sed -i -e 's/#MAKEFLAGS="-j2"/MAKEFLAGS="-j $(nproc)"/g' /etc/makepkg.conf;
 
 # ---------------------------------------------

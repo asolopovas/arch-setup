@@ -1,121 +1,128 @@
 Name, Description,Tag,Type
-gnome-keyring,Stores passwords and encryption keys,,Addon
-yarn,Fast; reliable; and secure dependency management,,Dev
-light,Brightness Control application,,Dev
 acpid,Required for brightness control,,Dev
-neovim,Fork of Vim aiming to improve user experience; plugins; and GUIs,,Dev
-python-neovim,Python client for Neovim,,Dev
 docker,Pack; ship and run any application as a lightweight container,,Dev
 docker-compose,Fast; isolated development environments using Docker,,Dev
+light,Brightness Control application,,Dev
+neovim,Fork of Vim aiming to improve user experience; plugins; and GUIs,,Dev
 nss,Network Security Services,,Dev
-ttf-ubuntu-font-family,Ubuntu font family,,Font
-ttf-liberation,Red Hats Liberation fonts,,Font
-ttf-gentium,Wide range of Latin-based alphabets; defines roughly 1;500 glyphs.,,Font
-ttf-droid,General-purpose fonts released by Google as part of Android,,Font
-ttf-dejavu,Font family based on the Bitstream Vera Fonts with a wider range of characters,,Font
+python-neovim,Python client for Neovim,,Dev
+yarn,Fast; reliable; and secure dependency management,,Dev
+adobe-source-sans-pro-fonts,Sans serif font family for user interface environments,,Font
+nerd-fonts-fira-mono,Nerd Fira Mono Font,A,Font
+nerd-fonts-inconsolata,Patched font Inconsolata from the nerd-fonts library,A,Font
+noto-fonts,Google Noto TTF fonts,,Font
+noto-fonts-emoji,Google Noto emoji fonts,,Font
+ttf-anonymous-pro,A family of four fixed-width fonts designed especially with coding in mind,,Font
 ttf-bitstream-vera,Bitstream Vera fonts.,,Font
+ttf-dejavu,Font family based on the Bitstream Vera Fonts with a wider range of characters,,Font
+ttf-droid,General-purpose fonts released by Google as part of Android,,Font
+ttf-gentium,Wide range of Latin-based alphabets; defines roughly 1;500 glyphs.,,Font
 ttf-inconsolata,Monospace font for pretty code listings and for the terminal,,Font
 ttf-joypixels,Emoji as a Service (formerly EmojiOne),,Font
-noto-fonts,Google Noto TTF fonts,,Font
+ttf-liberation,Red Hats Liberation fonts,,Font
 ttf-linux-libertine,Serif (Libertine) and Sans Serif (Biolinum) OpenType fonts with large Unicode coverage,,Font
-ttf-anonymous-pro,A family of four fixed-width fonts designed especially with coding in mind,,Font
-adobe-source-sans-pro-fonts,Sans serif font family for user interface environments,,Font
-noto-fonts-emoji,Google Noto emoji fonts,,Font
-nerd-fonts-inconsolata,Patched font Inconsolata from the nerd-fonts library,A,Font
-nerd-fonts-fira-mono,Nerd Fira Mono Font,A,Font
-libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
-vlc,Video Player,,Soft
-qbittorrent,Torrent Client,,Soft
-pkgstats,Submit a list of installed packages to the Arch Linux project,,Soft
-mythes-en,English thesaurus,,Soft
-libmythes,a simple thesaurus,,Soft
-languagetool,An open source language checker,,Soft
-icedtea-web,Free web browser plugin to run applets written in Java and an implementation of Java Web Start,,Soft
-gst-plugins-good,Launch shell commands with your keyboard or your mouse under X,,Soft
-gst-libav,GStreamer open-source multimedia framework FFmpeg plugin,,Soft
-enchant,Wrapper for various spell checker engines,,Soft
+ttf-ubuntu-font-family,Ubuntu font family,,Font
 aspell-en,Spell Checker,,Soft
-git,the fast distributed version control system ,,Soft
+bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
+clipit,Lightweight GTK+ clipboard manager,A,Soft
+enchant,Wrapper for various spell checker engines,,Soft
 flameshot,Powerful yet simple to use screenshot software,,Soft
-viber,Proprietary cross-platform IM and VoIP software,A,Soft
-teamviewer,All-In-One Software for Remote Support and Online Meetings,A,Soft
+git,the fast distributed version control system ,,Soft
+google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
+gst-libav,GStreamer open-source multimedia framework FFmpeg plugin,,Soft
+gst-plugins-good,Launch shell commands with your keyboard or your mouse under X,,Soft
+icedtea-web,Free web browser plugin to run applets written in Java and an implementation of Java Web Start,,Soft
+kbdd-git,Simple daemon and library to make per window layout,A,Soft
+languagetool,An open source language checker,,Soft
+libmythes,a simple thesaurus,,Soft
+libreoffice-fresh,LibreOffice branch which contains new features and program enhancements,,Soft
+mythes-en,English thesaurus,,Soft
 phpstorm,Lightweight and Smart PHP IDE,A,Soft
 phpstorm-jre,JBR (JetBrains Runtime) for PhpStorm - a patched JRE,A,Soft
-kbdd-git,Simple daemon and library to make per window layout,A,Soft
-google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
-bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
-visual-studio-code-bin,Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version),A,Soft
-clipit,Lightweight GTK+ clipboard manager,A,Soft
+pkgstats,Submit a list of installed packages to the Arch Linux project,,Soft
+qbittorrent,Torrent Client,,Soft
+teamviewer,All-In-One Software for Remote Support and Online Meetings,A,Soft
 unzip,For extracting and viewing files in .zip archives,,Soft
+viber,Proprietary cross-platform IM and VoIP software,A,Soft
+visual-studio-code-bin,Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version),A,Soft
+vlc,Video Player,,Soft
 alsa-utils,An alternative implementation of Linux sound support,,System
-avahi,Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour,,System
-cups,The CUPS Printing System - daemon package,,System
-efibootmgr,Tool to modify UEFI Firmware Boot Manager Variables,,System
-ghostscript,An interpreter for the PostScript language,,System
-pcmanfm-gtk3,Extremely fast and lightweight file manager (GTK+ 3 version),,System
-grub,GNU GRand Unified Bootloader,,System
-intel-ucode,Microcode update files for Intel CPUs,,System
-linux-headers,Header files and scripts for building modules for Linux kernel,,System
-networkmanager,Network Manager,,System
-ntfs-3g,Read-write NTFS driver for Linux,,System
-nvidia,NVIDIA drivers for linux,,System
-nvidia-utils,NVIDIA drivers utilities,,System
-nvidia-settings,Tool for configuring the NVIDIA graphics driver,,System
-os-prober,Utility to detect other OSes on a set of drives,,System
-playerctl,mpris media player controller and lib for spotify; vlc; audacious; bmp; xmms2; and others.,,System
-fd,"Simple, fast and user-friendly alternative to find",,System
-ripgrep,A search tool that combines the usability of ag with the raw speed of grep,,System
-pulseaudio,A featureful; general-purpose sound server ,,System
-pulsemixer,CLI and curses mixer for pulseaudio,,System
-samba,Samba Sharing Client,,System
-ufw,Uncomplicated and easy to use CLI tool for managing a netfilter firewall,,System
-unzip,Zip extractor,,System
-xbindkeys,Launch shell commands with your keyboard or your mouse under X,,System
-xclip,Command line interface to X selections (clipboard),,System
-xorg-server,Xorg X server,,System
-xorg-xrandr,Primitive command line interface to RandR extension,,System
-xorg-xset,User preference utility for X,,System
-xorg-xinput,Small commandline tool to configure devices,,System
-xorg-xinit,X.Org initialisation program,,System
+apparmor,Mandatory Access Control (MAC) using Linux Security Module (LSM),,System
 autorandr,Auto-detect connected display hardware and load appropiate X11 setup using xrandr,,System
-xterm,X Terminal Emulator,,System
-network-manager-applet,Applet for managing network connections,,System
-wmctrl,Control your EWMH compliant window manager from command line,,System
-zsh,Z shell,,System
-rclone,Sync files to and from Google Drive S3 Swift Cloudfiles Dropbox and Google Cloud Storage,,System
-qt5ct,Qt5 Configuration Utility,,System
-qt5-base,A cross-platform application and UI framework ,,System
-ntp,Network Time Protocol reference implementation,,System
-exfat-utils,Utilities for exFAT file system,,System
-xwallpaper,Wallpaper setting utility for X,,System
-w3m,Text-based Web browser as well as pager,,System
-nomac,A Qt image viewer,,System
-lxappearance,Feature-rich GTK+ theme switcher of the LXDE Desktop,,System
+avahi,Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour,,System
+blueman,GTK+ Bluetooth Manager,,System
+bluez,Daemons for the bluetooth protocol stack,,System
+bluez-utils,Development and debugging utilities for the bluetooth protocol stack,,System
 breeze,Artwork; styles and assets for the Breeze visual style for the Plasma Desktop,,System
 breeze-gtk,Breeze widget theme for GTK 2 and 3,,System
 breeze-icons,Breeze icon themes ,,System
-gnome-themes-extra,Extra Themes for GNOME Applications,,System
-gvfs,Virtual filesystem implementation for GIO,,System
-polkit-gnome,Legacy polkit authentication agent for GNOME,,System
-dunst,is a suckless notification system.,,System
-qt5-styleplugins,Additional style plugins for Qt5 ,,System
-blueman,GTK+ Bluetooth Manager,,System
-libappindicator-gtk3,Allow applications to extend a menu via Ayatana indicators in Unity  KDE or Systray (GTK+ 3 library),A,System
-pulseaudio-bluetooth,Bluetooth support for PulseAudio,,System
-bluez,Daemons for the bluetooth protocol stack,,System
-bluez-utils,Development and debugging utilities for the bluetooth protocol stack,,System
-xorg-wininfo,Command-line utility to print information about windows on an X server ,,System
 compton,X compositor that may fix tearing issues,,System
-ruby,An object-oriented language for quick and easy programming,,System
-unison,File-synchronization tool,,System
-libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste,A,System
-intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity
-yad,A fork of zenity - display graphical dialogs from,,Utilitity
-qalculate-gtk,GTK frontend for libqalculate,,Utilitity
-apparmor,Mandatory Access Control (MAC) using Linux Security Module (LSM),,System
-gvfs-mtp,"Virtual filesystem implementation for GIO (MTP backend; Android, media player)",,System
-squashfs-tools ,"Tools for squashfs, a highly compressed read-only filesystem for Linux.",,System
+cups,The CUPS Printing System - daemon package,,System
+dunst,is a suckless notification system.,,System
+efibootmgr,Tool to modify UEFI Firmware Boot Manager Variables,,System
+efibootmgr,Linux user-space application to modify the EFI Boot Manager,,System
+exfat-utils,Utilities for exFAT file system,,System
+fd,"Simple, fast and user-friendly alternative to find",,System
+ghostscript,An interpreter for the PostScript language,,System
+gnome-keyring,Stores passwords and encryption keys,,System
+gnome-themes-extra,Extra Themes for GNOME Applications,,System
 go-tools,Developer tools for the Go programming language,,System
+grub,GNU GRand Unified Bootloader,,System
+gvfs,Virtual filesystem implementation for GIO,,System
+gvfs-mtp,"Virtual filesystem implementation for GIO (MTP backend; Android, media player)",,System
+haskell-dbus,A client library for the D-Bus IPC system,,System
+intel-ucode,Microcode update files for Intel CPUs,,System
+libappindicator-gtk3,Allow applications to extend a menu via Ayatana indicators in Unity  KDE or Systray (GTK+ 3 library),A,System
+libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste,A,System
+linux-headers,Header files and scripts for building modules for Linux kernel,,System
+lxappearance,Feature-rich GTK+ theme switcher of the LXDE Desktop,,System
+network-manager-applet,Applet for managing network connections,,System
+networkmanager,Network Manager,,System
+nomac,A Qt image viewer,,System
+ntfs-3g,Read-write NTFS driver for Linux,,System
+ntp,Network Time Protocol reference implementation,,System
+nvidia,NVIDIA drivers for linux,,System
+nvidia-settings,Tool for configuring the NVIDIA graphics driver,,System
+nvidia-utils,NVIDIA drivers utilities,,System
+os-prober,Utility to detect other OSes on a set of drives,,System
+pcmanfm-gtk3,Extremely fast and lightweight file manager (GTK+ 3 version),,System
+playerctl,mpris media player controller and lib for spotify; vlc; audacious; bmp; xmms2; and others.,,System
+polkit-gnome,Legacy polkit authentication agent for GNOME,,System
+pulseaudio,A featureful; general-purpose sound server ,,System
+pulseaudio-bluetooth,Bluetooth support for PulseAudio,,System
+pulsemixer,CLI and curses mixer for pulseaudio,,System
+qt5-base,A cross-platform application and UI framework ,,System
+qt5-styleplugins,Additional style plugins for Qt5 ,,System
+qt5ct,Qt5 Configuration Utility,,System
+rclone,Sync files to and from Google Drive S3 Swift Cloudfiles Dropbox and Google Cloud Storage,,System
+ripgrep,A search tool that combines the usability of ag with the raw speed of grep,,System
+ruby,An object-oriented language for quick and easy programming,,System
+samba,Samba Sharing Client,,System
+squashfs-tools ,"Tools for squashfs, a highly compressed read-only filesystem for Linux.",,System
+ufw,Uncomplicated and easy to use CLI tool for managing a netfilter firewall,,System
+unison,File-synchronization tool,,System
+unzip,Zip extractor,,System
+w3m,Text-based Web browser as well as pager,,System
+wmctrl,Control your EWMH compliant window manager from command line,,System
+xbindkeys,Launch shell commands with your keyboard or your mouse under X,,System
+xclip,Command line interface to X selections (clipboard),,System
+xmonad-log,DBus monitor for xmonad log events,A,System
+xorg-server,Xorg X server,,System
+xorg-wininfo,Command-line utility to print information about windows on an X server ,,System
+xorg-xinit,X.Org initialisation program,,System
+xorg-xinput,Small commandline tool to configure devices,,System
+xorg-xrandr,Primitive command line interface to RandR extension,,System
+xorg-xset,User preference utility for X,,System
+xterm,X Terminal Emulator,,System
+xwallpaper,Wallpaper setting utility for X,,System
+zsh,Z shell,,System
+fd,"Simple, fast and user-friendly alternative to find",,Utilitity
+fzf,Command-line fuzzy finder,,Utilitity
+intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by JetBrains,A,Utilitity
 networkmanager-openvpn,NetworkManager VPN plugin for OpenVPN,,Utilitity
-openvpn,"An easy-to-use, robust and highly configurable VPN (Virtual Private Network)",,Utilitity
 networkmanager-vpnc,NetworkManager VPN plugin for VPNC,,Utilitity
+openvpn,"An easy-to-use, robust and highly configurable VPN (Virtual Private Network)",,Utilitity
+qalculate-gtk,GTK frontend for libqalculate,,Utilitity
+rofi,"A window switcher, application launcher and dmenu replacement",,Utilitity
+seahorse,GNOME application for managing PGP keys,,Utilitity
+yad,A fork of zenity - display graphical dialogs from,,Utilitity
