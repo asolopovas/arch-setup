@@ -8,7 +8,8 @@ nss,Network Security Services,,Dev
 python-neovim,Python client for Neovim,,Dev
 yarn,Fast; reliable; and secure dependency management,,Dev
 adobe-source-sans-pro-fonts,Sans serif font family for user interface environments,,Font
-nerd-fonts-fira-mono,Nerd Fira Mono Font,A,Font
+nerd-fonts-fira-code,Patched font Fira (Fura) Code from the nerd-fonts library,,Font
+nerd-fonts-fira-mono,Patched font Fira Mono from nerd-fonts library,A,Font
 nerd-fonts-inconsolata,Patched font Inconsolata from the nerd-fonts library,A,Font
 noto-fonts,Google Noto TTF fonts,,Font
 noto-fonts-emoji,Google Noto emoji fonts,,Font
@@ -26,6 +27,7 @@ aspell-en,Spell Checker,,Soft
 bfg,"Removes large or troublesome blobs like git-filter-branch does, but faster.",A,Soft
 clipit,Lightweight GTK+ clipboard manager,A,Soft
 enchant,Wrapper for various spell checker engines,,Soft
+firefox,Standalone web browser from mozilla.org,,Soft
 flameshot,Powerful yet simple to use screenshot software,,Soft
 git,the fast distributed version control system ,,Soft
 google-chrome,The popular and trusted web browser by Google (Stable Channel),A,Soft
@@ -63,6 +65,7 @@ efibootmgr,Tool to modify UEFI Firmware Boot Manager Variables,,System
 efibootmgr,Linux user-space application to modify the EFI Boot Manager,,System
 exfat-utils,Utilities for exFAT file system,,System
 fd,"Simple, fast and user-friendly alternative to find",,System
+gdm,Display manager and login screen,,System
 ghostscript,An interpreter for the PostScript language,,System
 gnome-keyring,Stores passwords and encryption keys,,System
 gnome-themes-extra,Extra Themes for GNOME Applications,,System
@@ -113,6 +116,7 @@ xorg-xinit,X.Org initialisation program,,System
 xorg-xinput,Small commandline tool to configure devices,,System
 xorg-xrandr,Primitive command line interface to RandR extension,,System
 xorg-xset,User preference utility for X,,System
+xorg-xsetroot,Classic X utility to set your root window background to a given pattern or color,,System
 xterm,X Terminal Emulator,,System
 xwallpaper,Wallpaper setting utility for X,,System
 zsh,Z shell,,System
@@ -122,6 +126,7 @@ intellij-jdk,OpenJDK Java 8 development kit with some fixes and enhancements by 
 networkmanager-openvpn,NetworkManager VPN plugin for OpenVPN,,Utilitity
 networkmanager-vpnc,NetworkManager VPN plugin for VPNC,,Utilitity
 openvpn,"An easy-to-use, robust and highly configurable VPN (Virtual Private Network)",,Utilitity
+pavucontrol,PulseAudio Volume Control,,Utilitity
 qalculate-gtk,GTK frontend for libqalculate,,Utilitity
 rofi,"A window switcher, application launcher and dmenu replacement",,Utilitity
 seahorse,GNOME application for managing PGP keys,,Utilitity
