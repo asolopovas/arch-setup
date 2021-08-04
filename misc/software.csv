@@ -131,3 +131,6 @@ qalculate-gtk,GTK frontend for libqalculate,,Utilitity
 rofi,"A window switcher, application launcher and dmenu replacement",,Utilitity
 seahorse,GNOME application for managing PGP keys,,Utilitity
 yad,A fork of zenity - display graphical dialogs from,,Utilitity
+file-roller,Create and modify archives,,Utilitity
+p7zip,Command-line file archiver with high compression ratio,,Utilitity
+unrar,The RAR uncompression program,,Utilitity
