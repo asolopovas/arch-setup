@@ -78,6 +78,8 @@ intel-ucode,Microcode update files for Intel CPUs,,System
 libappindicator-gtk3,Allow applications to extend a menu via Ayatana indicators in Unity  KDE or Systray (GTK+ 3 library),A,System
 libxft-bgra,libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste,A,System
 linux-headers,Header files and scripts for building modules for Linux kernel,,System
+libsecret,Library for storing and retrieving passwords and other secrets,,System
+libgnome-keyring,GNOME keyring client library (deprecated),,System
 lxappearance,Feature-rich GTK+ theme switcher of the LXDE Desktop,,System
 network-manager-applet,Applet for managing network connections,,System
 networkmanager,Network Manager,,System
